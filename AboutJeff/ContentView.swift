@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  AboutJeff
-//
-//  Created by HiIamJeff on 2025/9/26.
-//
-
 import SwiftUI
 
 struct ContentView: View {

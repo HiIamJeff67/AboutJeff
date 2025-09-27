@@ -10,6 +10,6 @@ struct PosterItem: Identifiable, Hashable {
     let accent: Color
 
     var embedURL: URL {
-        URL(string: "https://www.youtube.com/embed/\(youtubeID)?playsinline=1")!
+        URL(string: "https://www.youtube-nocookie.com/embed/\(youtubeID)?playsinline=1")!
     }
 }
